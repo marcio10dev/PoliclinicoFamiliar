@@ -1,0 +1,6 @@
+@Policlinico_La_Familia_HostAddress = http://localhost:5098
+
+GET {{Policlinico_La_Familia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
